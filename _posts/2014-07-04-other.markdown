@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+company: "That company"
+date:   2014-07-04 15:22:17
+categories: jekyll update
+---
+
+I’m using IE7 (and I cant change browser version or browser, I’ve to find solution on IE7 only) and want to print table with all borders (border also to it’s all rows ) and the table has many rows and the table covers two to three pages, but while printing that table, the row cuts into half at page break. 
+
+I know that this problem can be solved using page-break-inside:avoid, but this doesn’t work in IE7, pls share if any other solution.
