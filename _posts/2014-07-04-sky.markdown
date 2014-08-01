@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "NowTV"
+company: "Sky"
+date:   2014-07-04 15:22:17
+categories: UX, Case study
+---
+
+I joined NowTV, Sky’s multi-platform video on demand service, as one of the founding members of the team until after its launch. NowTV is the first standalone product that Sky has launched and it has been lauded as a huge success, far exceeding expectations. We wanted to create a compelling invitation by getting users to the content without barriers.  
+
+A responsively designed experiance that covered Desktop, Mobile Web, a native iOS app, native Android app, XBOX, YouView with others on the way. 

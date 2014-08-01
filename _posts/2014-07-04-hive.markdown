@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Hive connected homes"
+company: "British Gas"
+date:   2014-07-04 15:22:17
+categories: jekyll update
+---
+
+Hive was created as a standalone product business, the aim, to change customer perception of British Gas. Hive currently outsells all other competition 4 to 1 in the UK.
+
+Initially working together with external agencies, we relied on early focus groups to help develop personas & scenarios and ultimately define the Hive product and brand values. 
+
+I led the design of the new product alongside the branding agency, feeding off each other's ideas and findings. From this I led a team to develope the digital brand guidelines and the product’s interaction personality. 
+
+Hive had some initial hardware but we dicided early on that this would be a software led solution as it tied in with the businesses lean principles for faster implimentation and itteration. Besides, user's already had the perfect control in their pocket, their phones. We still needed to talk to hardware and were governed by certain contraints with the exising API but the product we developed managed to abstract all issues  
+
+The Hive mobile app and website have received glowing reviews for clean, and intuitive design.

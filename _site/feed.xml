@@ -1,67 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>© pres</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 23 Jul 2014 17:54:25 +0100</pubDate>
-    <lastBuildDate>Wed, 23 Jul 2014 17:54:25 +0100</lastBuildDate>
+    <title>©olling</title>
+    <description>Thoughts and work</description>
+    <link>http://colling.co/</link>
+    <atom:link href="http://colling.co/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 01 Aug 2014 13:24:08 +0100</pubDate>
+    <lastBuildDate>Fri, 01 Aug 2014 13:24:08 +0100</lastBuildDate>
     <generator>Jekyll v2.1.0</generator>
     
       <item>
-        <title>another page</title>
-        <description>&lt;p&gt;Is this content any different?&lt;/p&gt;
+        <title>Rebrand</title>
+        <description>&lt;p&gt;The brand identity for Smart AdServer was build around the values of Simplicity, Service &amp;amp; Innovation. The aim was to express a service that is detailed and comprehensive enough to compete with the best but are also focused on clarity of delivery. Designed for and with MadeleineCreative.&lt;/p&gt;
 </description>
         <pubDate>Sat, 05 Jul 2014 16:22:17 +0100</pubDate>
-        <link>http://yourdomain.com/jekyll/update/stuff/2014/07/05/welcome-to-jekyll%202/</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/stuff/2014/07/05/welcome-to-jekyll%202/</guid>
+        <link>http://colling.co/design,/case/study/2014/07/05/smartadserver/</link>
+        <guid isPermaLink="true">http://colling.co/design,/case/study/2014/07/05/smartadserver/</guid>
         
         
-        <category>jekyll</category>
+        <category>design,</category>
         
-        <category>update</category>
+        <category>case</category>
         
-        <category>stuff</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
-To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 04 Jul 2014 16:22:17 +0100</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2014/07/04/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2014/07/04/welcome-to-jekyll/</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>study</category>
         
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;I’m using IE7 (and I cant change browser version or browser, I’ve to find solution on IE7 only) and want to print table with all borders (border also to it’s all rows ) and the table has many rows and the table covers two to three pages, but while printing that table, the row cuts into half at page break. &lt;/p&gt;
+        <title>NowTV</title>
+        <description>&lt;p&gt;I joined NowTV, Sky’s multi-platform video on demand service, as one of the founding members of the team until after its launch. NowTV is the first standalone product that Sky has launched and it has been lauded as a huge success, far exceeding expectations. We wanted to create a compelling invitation by getting users to the content without barriers.  &lt;/p&gt;
 
-&lt;p&gt;I know that this problem can be solved using page-break-inside:avoid, but this doesn’t work in IE7, pls share if any other solution.&lt;/p&gt;
+&lt;p&gt;A responsively designed experiance that covered Desktop, Mobile Web, a native iOS app, native Android app, XBOX, YouView with others on the way. &lt;/p&gt;
 </description>
         <pubDate>Fri, 04 Jul 2014 16:22:17 +0100</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2014/07/04/other/</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2014/07/04/other/</guid>
+        <link>http://colling.co/ux,/case/study/2014/07/04/sky/</link>
+        <guid isPermaLink="true">http://colling.co/ux,/case/study/2014/07/04/sky/</guid>
+        
+        
+        <category>ux,</category>
+        
+        <category>case</category>
+        
+        <category>study</category>
+        
+      </item>
+    
+      <item>
+        <title>Hive connected homes</title>
+        <description>&lt;p&gt;Hive was created as a standalone product business, the aim, to change customer perception of British Gas. Hive currently outsells all other competition 4 to 1 in the UK.&lt;/p&gt;
+
+&lt;p&gt;Initially working together with external agencies, we relied on early focus groups to help develop personas &amp;amp; scenarios and ultimately define the Hive product and brand values. &lt;/p&gt;
+
+&lt;p&gt;I led the design of the new product alongside the branding agency, feeding off each other’s ideas and findings. From this I led a team to develope the digital brand guidelines and the product’s interaction personality. &lt;/p&gt;
+
+&lt;p&gt;Hive had some initial hardware but we dicided early on that this would be a software led solution as it tied in with the businesses lean principles for faster implimentation and itteration. Besides, user’s already had the perfect control in their pocket, their phones. We still needed to talk to hardware and were governed by certain contraints with the exising API but the product we developed managed to abstract all issues  &lt;/p&gt;
+
+&lt;p&gt;The Hive mobile app and website have received glowing reviews for clean, and intuitive design.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 04 Jul 2014 16:22:17 +0100</pubDate>
+        <link>http://colling.co/jekyll/update/2014/07/04/hive/</link>
+        <guid isPermaLink="true">http://colling.co/jekyll/update/2014/07/04/hive/</guid>
         
         
         <category>jekyll</category>
